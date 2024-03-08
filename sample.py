@@ -11,4 +11,3 @@ class student:
 human = student('xyz', 55, 'yss')
 human.info()
 
-print('hello world')
