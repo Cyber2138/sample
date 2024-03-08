@@ -1,2 +1,4 @@
-print('hello world')
-print('hello world')
+# running loop in python
+
+for i in range(10):
+    print(i)
